@@ -163,7 +163,7 @@ git push origin feature/loan-disbursement
 * Provide a brief description of your changes
 * Assign reviewers if applicable
 
-Once reviewed and approved, your branch will be **merged** into the `main` branch.
+Once reviewed and approved, your branch will be **merged** into the `development` branch and finally to `main` if no conflicts.
 
 
 
@@ -209,11 +209,11 @@ To maintain consistency with Microsoft Learn style:
 
 ## 🧠 Tips for Effective Collaboration
 
-* Always pull the latest `main` branch before starting new work:
+* Always pull the latest `development` branch before starting new work:
 
   ```bash
-  git checkout main
-  git pull origin main
+  git checkout development
+  git pull origin development
   ```
 * Keep commits focused and descriptive.
 * Avoid committing large binary files (e.g., raw screenshots >2MB).
@@ -221,7 +221,7 @@ To maintain consistency with Microsoft Learn style:
 
 
 
-## 🏁 Summary
+##  Summary
 
 This repository is the single source of truth for the **Sacco Loaning Process Manual in Business Central**. All contributors should:
 
@@ -233,9 +233,6 @@ Once your changes are merged, the live documentation will automatically update o
 
 
 
-**Maintainer:** Raddames Tonui
+<!-- **Maintainer:** Raddames Tonui -->
 **Repository:** [git@github.com:Raddames-Tonui/loan_process_user_manual_bc.git](git@github.com:Raddames-Tonui/loan_process_user_manual_bc.git)
 
-
-
-> **Let’s build a world-class documentation site that mirrors Microsoft Learn — clear, p
