@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: 'Business Central',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
@@ -27,8 +27,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Sky World', // Usually your GitHub org/user name.
+  projectName: 'Loaning Processes in Business Central', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
@@ -97,7 +97,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/Raddames-Tonui/loan_process_user_manual_bc',
             label: 'GitHub',
             position: 'right',
           },
