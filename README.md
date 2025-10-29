@@ -6,7 +6,7 @@ This repository hosts the Docusaurus-based documentation site, which serves as t
 
 
 
-## 📘 Project Overview
+##  Project Overview
 
 This documentation project captures and explains all loan management processes in **Business Central**, including:
 
@@ -23,7 +23,7 @@ The documentation mirrors the **Microsoft Learn** style and structure.
 
 
 
-## 🧱 Getting Started
+##  Getting Started
 
 Follow these steps to set up and contribute to the documentation locally.
 
@@ -120,7 +120,7 @@ All documentation files (`.md`) should live inside `/docs/`.
 
 
 
-## 👥 Collaboration Workflow
+##  Collaboration Workflow
 
 We follow a **branch-based workflow** to maintain consistency.
 
@@ -167,7 +167,7 @@ Once reviewed and approved, your branch will be **merged** into the `development
 
 
 
-## 🌐 Deployment (for Maintainers)
+##  Deployment (for Maintainers)
 
 Deployment is handled through **Netlify**:
 
@@ -178,7 +178,7 @@ Each push to `main` automatically triggers a new deployment.
 
 
 
-## 🧭 Documentation Standards
+##  Documentation Standards
 
 To maintain consistency with Microsoft Learn style:
 
@@ -207,7 +207,7 @@ To maintain consistency with Microsoft Learn style:
 
 
 
-## 🧠 Tips for Effective Collaboration
+##  Tips for Effective Collaboration
 
 * Always pull the latest `development` branch before starting new work:
 
