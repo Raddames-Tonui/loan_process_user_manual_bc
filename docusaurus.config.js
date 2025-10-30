@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Sacco Loaning Processes',
   tagline: 'Business Central 365',
-  favicon: 'img/logo.svg',
+  favicon: 'img/bc_logo.png',
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4
@@ -82,10 +82,10 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'My Site',
+        title: 'Sacco Loan Processes',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'BC Logo',
+          src: 'img/bc_logo.png',
         },
         items: [
           {
