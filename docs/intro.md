@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Sacco Loaning Operations Documentation
 
 This documentation serves as a **comprehensive user manual** detailing the full loaning processes within **Microsoft Dynamics 365 Business Central**, specifically customized for **Sacco operations**.
