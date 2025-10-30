@@ -1,47 +1,56 @@
----
-sidebar_position: 1
----
+# Sacco Loaning Operations Documentation
 
-# Tutorial Intro
+This documentation serves as a **comprehensive user manual** detailing the full loaning processes within **Microsoft Dynamics 365 Business Central**, specifically customized for **Sacco operations**.
 
-Let's discover **Docusaurus in less than 5 minutes**.
 
-## Getting Started
+##  Scope of Documentation
 
-Get started by **creating a new site**.
+The manual covers all functional areas of the Sacco’s loaning operations in Business Central. Each process is presented with **step-by-step procedures**, **illustrative screenshots**, and **practical examples** that mirror real-world workflows.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+### 1. Loan Application and Qualification
 
-### What you'll need
+Guidelines on how to create and manage loan applications, verify member eligibility, capture loan details, and define qualification criteria within Business Central.
 
-- [Node.js](https://nodejs.org/en/download/) version 20.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+### 2. Loan Appraisal and Approval
 
-## Generate a new site
+Instructions on how to perform loan appraisals, evaluate applications based on Sacco policies, and process approvals through configured Business Central workflows.
 
-Generate a new Docusaurus site using the **classic template**.
+### 3. Loan Disbursement
 
-The classic template will automatically be added to your project after you run the command:
+Detailed walkthrough on disbursing approved loans, posting journal entries, and tracking disbursement records for audit purposes.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+### 4. Guarantor Management
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+Procedures for capturing and managing guarantor information, linking guarantors to specific loans, and maintaining guarantee liability records.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+### 5. Loan Repayment
 
-## Start your site
+Step-by-step guide to managing loan repayment schedules, processing repayments, tracking balances, and handling early or partial payments.
 
-Run the development server:
+### 6. Interest Calculation and Posting
 
-```bash
-cd my-website
-npm run start
-```
+Explanation of interest computation logic, periodic posting, and reconciliation methods used for accurate financial reporting.
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+### 7. Loan Rescheduling, Refinancing, and Top-up
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+Instructions for handling special cases such as restructuring loan terms, consolidating existing loans, refinancing, or processing top-up applications.
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+### 8. Loan Reports
+
+Comprehensive overview of standard and custom reports available for monitoring loan performance, repayments, delinquency, and outstanding balances.
+
+
+##  Documentation Format
+
+Each section includes:
+
+* **Process Overview** – brief description of purpose and functionality.
+* **Prerequisites** – system setup or configuration required.
+* **Step-by-Step Instructions** – clear procedural steps with screenshots.
+* **Examples and Use Cases** – practical demonstrations of each process.
+* **Notes and Tips** – important considerations and best practices.
+
+
+##  Objective
+
+To provide an authoritative, user-friendly, and detailed manual that empowers Sacco staff to efficiently manage the loan lifecycle using **Microsoft Dynamics 365 Business Central**, in alignment with operational and compliance standards.
