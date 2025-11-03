@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Managing Loan Guarantors
+# Guarantor Management
 
 This guide walks you through the process of **adding guarantors to a new loan** and **substituting a guarantor** in the Debt Management module.
 
