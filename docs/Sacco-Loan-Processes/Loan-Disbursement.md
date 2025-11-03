@@ -3,7 +3,6 @@ sidebar_position: 3
 ---
 
 # Loan Disbursement
-## Intro  
     Loan Disbursement is the process by which a leander releases approved loan funds to a borrower, making the money available for use.  
     The loan disbursement can happen all at once, as in full disbursement, which is automatic when posting the loan, when the mode of disbursement is set to Full Disbursement.  
     Partial Disbursement means an approved loan is availed in stages through the loan disbursement process.  
@@ -37,3 +36,5 @@ sidebar_position: 3
     ![Loan Disbursement Approval](/img/loan_disbursment_approval_request.png)
 
     Once approved, the Posting can now be done.  
+
+
