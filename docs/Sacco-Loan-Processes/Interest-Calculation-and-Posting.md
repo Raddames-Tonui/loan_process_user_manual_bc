@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 ---
 
 # Interest Calculation and Posting
@@ -102,3 +102,4 @@ Once interest is generated, it is **posted** to the relevant **Credit** and **G/
 
 > **Note:**  
 > The method chosen during loan setup directly affects how repayments are structured, how interest accrues, and how postings are reflected in the SACCO’s financial records.
+
