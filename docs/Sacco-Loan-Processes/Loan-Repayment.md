@@ -16,11 +16,11 @@ To generate a repayment schedule, click the **Generate Repayment Schedule** on t
 
 ![Generate Loan Repayment](/img/Loan-Repayment-1.jpg)
 
-> 💡 Ensure that the Loan Account is updated before generating the repayment schedule
+>  Ensure that the Loan Account is updated before generating the repayment schedule
 
 For our loan here is the generated repayment schedule: [Loan Repayment Schedule](/files/Loan-Repayment-Schedule.pdf)
 
-> 📉 Notice how the **interest** portion decreases while the **principal** portion increases each month, keeping the **total payment constant**.
+>  Notice how the **interest** portion decreases while the **principal** portion increases each month, keeping the **total payment constant**.
 
 ---
 
@@ -38,7 +38,7 @@ The repayment method for the loan above is : **Salary**
 
 ---
 
-### 🧾 Repayment Posting
+###  Repayment Posting
 
 Though the repayment is using salary- the loan can be repayment can be done through any of the repayment methods of the loan setup.
 
@@ -64,7 +64,7 @@ The General Ledger entries:
 
 ![Loan Repayment](/img/Loan-Repayment-8.jpg)
 
-> 💡 The loan balance reduces after each repayment, and future interest is calculated based on the **new outstanding principal** (depending on the interest method).
+>  The loan balance reduces after each repayment, and future interest is calculated based on the **new outstanding principal** (depending on the interest method).
 
 The outstanding interest is zero and the next repayment is as per the repayment schedule.
 
@@ -72,7 +72,7 @@ The outstanding interest is zero and the next repayment is as per the repayment 
 
 ---
 
-### ⚙️ Repayment Processing Summary
+###  Repayment Processing Summary
 
 When repayments are processed:
 
@@ -90,5 +90,5 @@ For this member's Loan Repayment, after the receipt is posted, the system will a
 
 ---
 
-> ✅ **Summary:**  
+>  **Summary:**  
 > Loan repayments cover both **principal and interest**, and the method of calculation (Amortised, Reducing Balance, Reducing Flat, or Straight Line) determines how these amounts change over time and how interest is applied to the loan balance.
