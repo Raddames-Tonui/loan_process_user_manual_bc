@@ -4,8 +4,6 @@ sidebar_position: 1
 
 # Loan Application and Qualification
 
-## *Introduction*
-
 ## Loan Application
 
 A loan application is the process where a borrower formally asks a lender (like a bank, SACCO, or fintech platform) for money.  
@@ -33,7 +31,6 @@ It’s the lender asking, “Can this person be trusted to repay us?”
 
 If the applicant passes all these checks, the lender says the borrower is *qualified* — and the loan can move forward for approval and disbursement.
 
----
 
 ### In short:
 - **Loan application** = borrower requests the loan.  

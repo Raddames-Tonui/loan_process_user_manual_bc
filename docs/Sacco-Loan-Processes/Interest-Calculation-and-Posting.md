@@ -4,14 +4,11 @@ sidebar_position: 5
 
 # Interest Calculation and Posting
 
----
-
 The **total amount** to be repaid for a loan includes both the **principal** and the **interest** charged over the loan period.
 
 The **interest rates** charged on loans are determined according to the **SACCO Policy**, which is regulated by **SASRA**.  
 Each **loan product** has a minimum interest rate set up in the system — the rate charged to a specific client can vary, but it must remain within the policy limits.
 
----
 
 ## Interest Calculation Methods
 
@@ -26,7 +23,6 @@ Over time, the **interest portion** of the repayment decreases because it is cal
 
 > Commonly used in: Mortgages, car loans, and long-term personal loans.
 
----
 
 ### 2. **Reducing Balance Method**
 
@@ -35,8 +31,6 @@ As the principal reduces with each repayment, the **interest amount decreases** 
 
 >  This results in a lower total interest compared to flat-rate methods.
 
----
-
 ### 3. **Reducing Flat Method**
 
 With this method, **interest is calculated on the original principal**, but the **repayment schedule** is structured in a way that reduces the principal over time.  
@@ -44,7 +38,6 @@ This sometimes results in **slightly lower total interest** than a traditional f
 
 > Acts as a middle ground between flat and reducing balance methods.
 
----
 
 ### 4. **Straight Line Method**
 
@@ -87,8 +80,6 @@ Once interest is generated, it is **posted** to the relevant **Credit** and **G/
 
 
 
----
-
 ## Summary
 
 | Method | Interest Basis | Payment Structure | Interest Trend | Typical Use |
@@ -98,8 +89,7 @@ Once interest is generated, it is **posted** to the relevant **Credit** and **G/
 | **Reducing Flat** | Original Principal (Adjusted) | Semi-decreasing | Slightly Decreases | Retail loans |
 | **Straight Line** | Original Principal | Constant | Fixed | Short-term or simple loans |
 
----
 
-> **Note:**  
-> The method chosen during loan setup directly affects how repayments are structured, how interest accrues, and how postings are reflected in the SACCO’s financial records.
+:::tip[Note:]
+ The method chosen during loan setup directly affects how repayments are structured, how interest accrues, and how postings are reflected in the SACCO’s financial records.
 
