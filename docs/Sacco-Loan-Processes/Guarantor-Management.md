@@ -6,7 +6,7 @@ sidebar_position: 4
 
 This guide walks you through the process of **adding guarantors to a new loan** and **substituting a guarantor** in the Debt Management module.
 
----
+
 
 ## 1. Adding Loan Guarantors to a New Loan
 
@@ -23,8 +23,6 @@ Add the required number of guarantors based on the loan criteria.
 ### Step 2: Submit Loan
 
 After adding the guarantors, proceed to apply for the loan as usual.
-
----
 
 ## 2. Guarantor Substitution
 

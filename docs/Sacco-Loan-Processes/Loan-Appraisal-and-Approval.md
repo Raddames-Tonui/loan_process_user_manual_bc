@@ -2,16 +2,14 @@
 sidebar_position: 2
 ---
 
-# Sacco Loan Appraisal and Approval in Microsoft Dynamics 365 Business Central
-
-*Applies to:* Microsoft Dynamics 365 Business Central
+# Sacco Loan Appraisal and Approval 
 
 *Audience:* Loan Officers, Credit/Appraisal Analysts, Branch Managers/Approvers, System Admins
 Version: 2025-11-05
 
 ## Overview
 
-This guide is a complete user reference for Sacco loan Appraisal and Approval processes in Business Central. It follows Microsoft Learn style, detailing prerequisites, step-by-step procedures, fields, controls, troubleshooting, and FAQs. Use Tell Me (Alt+Q) to find pages.
+This guide is a complete user reference for Sacco loan Appraisal and Approval processes in Business Central.
 
 ## Process Flow
 
@@ -25,22 +23,22 @@ This guide is a complete user reference for Sacco loan Appraisal and Approval pr
 
 ## Step 1 — Start the Appraisal from the Loan Application
 
+
 - On the Loan Application card, click the Appraisal action to expose the appraisal tools.
-- Visual: ![Appraisal action button](../../static/img/loan-appraisal-approval/appraisal%20button.png)
+![Appraisal action button](../../static/img/loan-appraisal-approval/appraisal%20button.png)
 - Outcome: I can now access Eligibility Breakdown, Generate Payment Schedule, and Generate Appraisal Report.
 
 ## Step 2 — Capture the appraisal details (financials, collateral, guarantors)
 
 - Enter member income, other recurring income, existing loan obligations, deductions/expenses, and then capture collateral and guarantors as needed.
-- Use our standard appraisal form to double‑check inputs and attach it to the application.
+- check on the  standard appraisal form to double‑check inputs and attach it to the application.
 - Visuals for the card/views I worked on:
   - Appraisal form: [Loan Appraisal form.pdf](../../static/img/loan-appraisal-approval/Loan%20Appraisal%20form.pdf)
-  - Context screens I reviewed/edited:
-    - ![Application view](../../static/img/loan-appraisal-approval/Screenshot%202025-10-31%20151539.png)
-    - ![Application view](../../static/img/loan-appraisal-approval/Screenshot%202025-10-31%20152838.png)
-    - ![Application view](../../static/img/loan-appraisal-approval/Screenshot%202025-10-31%20153033.png)
-    - ![Application view](../../static/img/loan-appraisal-approval/Screenshot%202025-10-31%20153442.png)
-    - ![Application view](../../static/img/loan-appraisal-approval/Screenshot%202025-10-31%20153635.png)
+    ![Application view](../../static/img/loan-appraisal-approval/Screenshot%202025-10-31%20151539.png)
+    ![Application view](../../static/img/loan-appraisal-approval/Screenshot%202025-10-31%20152838.png)
+    ![Application view](../../static/img/loan-appraisal-approval/Screenshot%202025-10-31%20153033.png)
+    ![Application view](../../static/img/loan-appraisal-approval/Screenshot%202025-10-31%20153442.png)
+    ![Application view](../../static/img/loan-appraisal-approval/Screenshot%202025-10-31%20153635.png)
 
 ## Step 3 — Run the Eligibility Breakdown and read the KPIs
 
