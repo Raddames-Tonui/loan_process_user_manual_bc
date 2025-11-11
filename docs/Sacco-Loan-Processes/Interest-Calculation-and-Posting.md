@@ -14,7 +14,7 @@ Each **loan product** has a minimum interest rate set up in the system — the r
 
 There are four main types of **interest calculation methods** commonly used across loan products:
 
-![Product Setup](/img/Interest-Calculation-And-Posting-1.jpg)
+![Product Setup](../../static/img/Interest-Calculation-And-Posting-1.jpg)
 
 ### 1. **Amortised Method**
 
