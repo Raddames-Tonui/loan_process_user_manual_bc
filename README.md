@@ -195,7 +195,7 @@ To maintain consistency with Microsoft Learn style:
 
 
 
-## 🧩 Useful Commands
+##  Useful Commands
 
 | Command          | Description                                  |
 | - | -- |
